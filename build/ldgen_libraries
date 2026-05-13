@@ -179,6 +179,6 @@ C:/Espressif/frameworks/esp-idf-v5.5.4/psu_firmware_sargent/build/esp-idf/app/li
 C:/Espressif/frameworks/esp-idf-v5.5.4/psu_firmware_sargent/build/esp-idf/psu_can_tx/libpsu_can_tx.a
 C:/Espressif/frameworks/esp-idf-v5.5.4/psu_firmware_sargent/build/esp-idf/can/libcan.a
 C:/Espressif/frameworks/esp-idf-v5.5.4/psu_firmware_sargent/build/esp-idf/logging/liblogging.a
-C:/Espressif/frameworks/esp-idf-v5.5.4/psu_firmware_sargent/build/esp-idf/psu_control/libpsu_control.a
+C:/Espressif/frameworks/esp-idf-v5.5.4/psu_firmware_sargent/build/esp-idf/psu_core/libpsu_core.a
 C:/Espressif/frameworks/esp-idf-v5.5.4/psu_firmware_sargent/build/esp-idf/app/libapp.a
 C:/Espressif/frameworks/esp-idf-v5.5.4/psu_firmware_sargent/build/esp-idf/ui/libui.a

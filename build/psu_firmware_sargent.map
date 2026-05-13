@@ -10400,7 +10400,7 @@ LOAD esp-idf/psu_can_tx/libpsu_can_tx.a
 LOAD esp-idf/app/libapp.a
 LOAD esp-idf/can/libcan.a
 LOAD esp-idf/logging/liblogging.a
-LOAD esp-idf/psu_control/libpsu_control.a
+LOAD esp-idf/psu_core/libpsu_core.a
 LOAD esp-idf/ui/libui.a
 LOAD esp-idf/app_trace/libapp_trace.a
 LOAD esp-idf/app_trace/libapp_trace.a

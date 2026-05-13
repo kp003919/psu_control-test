@@ -634,7 +634,7 @@ endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("C:/Espressif/frameworks/esp-idf-v5.5.4/psu_firmware_sargent/build/esp-idf/psu_control/cmake_install.cmake")
+  include("C:/Espressif/frameworks/esp-idf-v5.5.4/psu_firmware_sargent/build/esp-idf/psu_core/cmake_install.cmake")
 endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)

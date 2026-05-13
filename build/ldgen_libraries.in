@@ -179,6 +179,6 @@ $<TARGET_FILE:idf::app>
 $<TARGET_FILE:__idf_psu_can_tx>
 $<TARGET_FILE:idf::can>
 $<TARGET_FILE:idf::logging>
-$<TARGET_FILE:idf::psu_control>
+$<TARGET_FILE:idf::psu_core>
 $<TARGET_FILE:__idf_app>
 $<TARGET_FILE:idf::ui>
