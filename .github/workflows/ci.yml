@@ -22,5 +22,5 @@ jobs:
     - name: Build firmware
       run: idf.py build
 
-    - name: Run unit tests
-      run: idf.py test
+    - name: Run Unity tests
+      run: idf.py -T .
