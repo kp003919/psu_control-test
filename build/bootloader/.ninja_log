@@ -120,3 +120,5 @@
 22001	22763	8004151417010347	C:/Espressif/frameworks/esp-idf-v5.5.4/psu_firmware_sargent/build/bootloader/.bin_timestamp	7dd1b4bf0fd9e184
 22763	22990	8004151417160324	esp-idf/esptool_py/CMakeFiles/bootloader_check_size	a7393da0e1837495
 22763	22990	8004151417160324	C:/Espressif/frameworks/esp-idf-v5.5.4/psu_firmware_sargent/build/bootloader/esp-idf/esptool_py/CMakeFiles/bootloader_check_size	a7393da0e1837495
+50	304	8004158101385048	esp-idf/esptool_py/CMakeFiles/bootloader_check_size	a7393da0e1837495
+50	304	8004158101385048	C:/Espressif/frameworks/esp-idf-v5.5.4/psu_firmware_sargent/build/bootloader/esp-idf/esptool_py/CMakeFiles/bootloader_check_size	a7393da0e1837495
